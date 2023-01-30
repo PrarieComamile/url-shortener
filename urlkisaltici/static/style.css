@@ -1,0 +1,75 @@
+body
+{
+    background-color: rgb(20, 20, 20);
+}
+
+.title
+{
+    font: 50px 'Oswald', serif;
+    color: #fff;
+    text-shadow: 0 0 5px #fff, 0 0 5px #fff, 0 0 11px #fff, 0 0 16px #ff2d95, 0 0 24px #ff2d95, 0 0 32px #ff2d95, 0 0 40px #ff2d95, 0 0 50px #ff2d95;
+    text-align: center;
+}
+
+.link-body
+{
+    background-color: rgb(14, 14, 14);
+    height: 400pt;
+    width: 1000pt;
+    position: relative;
+    margin: auto;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.text
+{
+    font: 50px 'Oswald', serif;
+    color: #fff;
+    text-align: center;
+}
+
+.input_text
+{
+    width: 800px;
+    height: 50px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: rgb(37, 37, 37);
+    border: none;
+    color: #fff;
+    font-size: 20px;
+}
+
+.input_log
+{
+    text-align: center;
+}
+
+#button
+{
+    background-color: rgb(15, 15, 15);
+    color: #fff;
+    font-size: 20px;
+    padding: 0px;
+    width: 90px;
+    height: 52px;
+    border-color: #ff2d95;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0 0 5px #fff, 0 0 24px #ff2d95, 0 0 3px #ff2d95, 0 0 5px #ff2d95, 0 0 10px #ff2d95;
+}
+
+.direct
+{
+    color: rgb(80, 80, 80);
+    padding-top: 100px;
+    text-align: center;
+}
+
+.shtext
+{
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+}
