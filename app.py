@@ -1,6 +1,5 @@
 import pyshorteners
 from flask import Flask, request, render_template
-from pyperclip import copy
 
 app = Flask(__name__)
 
