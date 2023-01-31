@@ -10,7 +10,11 @@ URL kısaltıcı, uzun linkleri kısaltır ve sizlere sunar.
 **Gerekli KÜtüphaneler**
 -------------------------------------------------
 Flask = 2.1.3
+
 pyshorteners = 1.0.1
 
+
+-------
 ~pip install Flask
+
 ~pip install pyshorteners
