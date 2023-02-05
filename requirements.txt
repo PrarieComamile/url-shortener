@@ -1,0 +1,2 @@
+Flask==2.2.2
+pyshorteners==1.0.1
