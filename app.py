@@ -3,6 +3,7 @@ from flask import Flask, request, render_template
 
 app = Flask(__name__)
 
+# anasayfa
 @app.route("/")
 def homepage():
     try:
@@ -11,6 +12,7 @@ def homepage():
     except:
         return render_template("error.html")
 
+# kısaltma link
 @app.route("/shorten", methods=['POST', 'GET'])
 def convert():
     try:
