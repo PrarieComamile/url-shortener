@@ -7,7 +7,7 @@ URL kısaltıcı, uzun linkleri kısaltır ve sizlere sunar.
 
 ![Screenshot from 2023-01-30 22-26-54](https://user-images.githubusercontent.com/101043132/215575999-c9918bee-7b73-4d37-b043-235f5dddd416.png)
 
-**Gerekli KÜtüphaneler**
+**Gerekli Kütüphaneler**
 -------------------------------------------------
 Flask = 2.1.3
 
